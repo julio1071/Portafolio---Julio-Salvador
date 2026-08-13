@@ -1,3 +1,5 @@
+package com.biblioteca.modelo;
+
 public class Usuario extends Persona {
 
     public Usuario(String nombre, String id) {

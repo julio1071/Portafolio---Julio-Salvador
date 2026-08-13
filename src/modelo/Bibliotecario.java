@@ -1,3 +1,5 @@
+package com.biblioteca.modelo;
+
 public class Bibliotecario extends Persona {
 
     public Bibliotecario(String nombre, String id) {
